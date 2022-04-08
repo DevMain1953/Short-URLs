@@ -1,7 +1,7 @@
 ## About project
 
-Laravel Version: 5.1.46 (LTS)
-PHP Version: 7.4.14
+- Laravel Version: 5.1.46 (LTS)
+- PHP Version: 7.4.14
 
 ### License
 
