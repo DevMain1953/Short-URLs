@@ -2,6 +2,7 @@
 
 - Laravel Version: 5.1.46 (LTS)
 - PHP Version: 7.4.14
+- Composer version 2.2.9
 
 ## Description
 
@@ -10,6 +11,7 @@ Web-application that generates short url using str_random() function and saves i
 ## Installation
 
 - get the latest version from git repo
+- create .env file to describe connection to DB
 - in project directory `composer install`
 - run the migrations
 - `php artisan serve`
