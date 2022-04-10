@@ -13,7 +13,8 @@ Web-application that generates short url using str_random() function and saves i
 - get the latest version from git repo
 - create .env file to describe connection to DB
 - in project directory `composer install`
-- run the migrations
+- `php artisan key:generate`
+- `php artisan migrate`
 - `php artisan serve`
 
 ### License
