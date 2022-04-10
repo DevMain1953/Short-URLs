@@ -10,9 +10,9 @@ Web-application that generates short url using str_random() function and saves i
 ## Installation
 
 - get the latest version from git repo
-- in project directory 'composer install'
+- in project directory `composer install`
 - run the migrations
-- 'php artisan serve'
+- `php artisan serve`
 
 ### License
 
